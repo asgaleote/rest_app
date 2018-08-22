@@ -2,6 +2,7 @@ hello/Greeting.class
 hello/User.class
 com/asg/restmodel/rest_app/App.class
 hello/MainController.class
+hello/Customer.class
 hello/Application.class
 hello/GreetingController.class
 hello/UserRepository.class
